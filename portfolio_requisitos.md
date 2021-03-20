@@ -1,0 +1,14 @@
+# Vinicius Porfolio
+## Requisistos:
+- Requisitos Porfolio:
+- Foto de perfil redonda
+- Dados Pessoais:
+    - Nome
+    - Email
+    - Idade
+    - Sexo
+  	- Histórico profissional
+	- Histórico acadêmico
+- Portfolio Github
+- Redes Sociais
+	- Linkedin
